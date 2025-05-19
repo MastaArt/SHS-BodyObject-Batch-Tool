@@ -18,7 +18,7 @@ URL=https://raw.githubusercontent.com/MastaArt/SHS-BodyObject-Batch-Tool/main/
 FILE=SHS-BodyObject-Batch-Tool.ms
 
 [FILES]
-Install.mcr=
+INSTALL.mcr=
 
 [SCRIPT]
 */
